@@ -32,8 +32,8 @@ string: the resulting string
 #### Input Format\
 The one line contains a string consisting of space separated words.
 
-##### Sample Input\
+##### Sample Input
 this is a string   
 
-##### Sample Output\
+##### Sample Output
 this-is-a-string
