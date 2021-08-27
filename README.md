@@ -7,18 +7,18 @@ In Python, a string can be split on a delimiter.
 Example:
 
  a = "this is a string"\
- a = a.split(" ") # a is converted to a list of strings.\ 
+ a = a.split(" ") # a is converted to a list of strings\ 
  print a\
 ['this', 'is', 'a', 'string']\
 Joining a string is simple:
 
- a = "-".join(a)
- print a
-this-is-a-string 
-Task
+ a = "-".join(a)\
+ print a\
+this-is-a-string\ 
+#### Task
 You are given a string. Split the string on a " " (space) delimiter and join using a - hyphen.
 
-Function Description
+#### Function Description
 
 Complete the split_and_join function in the editor below.
 
@@ -28,12 +28,12 @@ string line: a string of space-separated words
 Returns
 
 string: the resulting string
-Input Format
+##### Input Format
 The one line contains a string consisting of space separated words.
 
-Sample Input
+##### Sample Input
 
 this is a string   
-Sample Output
+##### Sample Output
 
 this-is-a-string
