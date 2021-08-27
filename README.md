@@ -26,14 +26,14 @@ Complete the split_and_join function in the editor below.
 split_and_join has the following parameters:
 
 string line: a string of space-separated words
-Returns
-
+Returns\
 string: the resulting string
-#### Input Format\
+
+*Input Format*\
 The one line contains a string consisting of space separated words.
 
-##### Sample Input
+*Sample Input*\
 this is a string   
 
-##### Sample Output
+ *Sample Output*\
 this-is-a-string
