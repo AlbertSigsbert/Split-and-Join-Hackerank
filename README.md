@@ -9,9 +9,9 @@ Example:\
  a = a.split(" ") # a is converted to a list of strings.
  
  print a\
-['this', 'is', 'a', 'string']\
+['this', 'is', 'a', 'string']
 
-###### Joining a string is simple:
+**Joining a string is simple:**
  a = "-".join(a)\
  print a\
 this-is-a-string\ 
